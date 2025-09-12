@@ -9,7 +9,7 @@ import { Component } from '@angular/core';
 export class Initial {
 
   //interpolation
-  //property binding
+  //property binding -- Done
   //getter
   //Event Binding
   //Manage State
